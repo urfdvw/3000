@@ -1,0 +1,17 @@
+本文件是按照词频排序的《再要你命3000》
+词表来自http://www.sharewithu.com/thread-768464-1-1.html
+数据从https://www.collinsdictionary.com/us/dictionary/english/爬得
+爬虫代码见https://github.com/urfdvw/3000
+
+其中先按照词频级别排序，每级中再按照使用量排序。
+
+Level:
+词频级别
+1: Used Rarely. The word is in the lower 50% of commonly used words in the Collins dictionary
+2: Used Occasionally. The word is one of the 30000 most commonly used words in the Collins dictionary
+3: In Common Usage. The word is one of the 10000 most commonly used words in the Collins dictionary
+4: Very Common. The word is one of the 4000 most commonly used words in the Collins dictionary
+5: Extremely Common. The word is one of the 1000 most commonly used words in the Collins dictionary
+
+Frequency:
+使用量
