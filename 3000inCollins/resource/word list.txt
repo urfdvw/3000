@@ -1,0 +1,23 @@
+LIST:1
+UNIT:1
+NO:1
+WORD:abandon
+SCORE:3
+	EXPRESSION:abandon
+		KEY:放弃
+		SCESECHI:放弃（人，东西，工作），想法等，主动的。常常带有“不该这样做”的负面语境
+		SCESE:If you abandon a place, thing, or person, you leave the place, thing, or person permanently or for a long time, especially when you should not do so. If you abandon an activity or piece of work, you stop doing it before it is finished. If you abandon an idea or way of thinking, you stop having that idea or thinking in that way. 
+		CASE:Logic had prevailed and he had abandoned the idea.
+		CASECHI:最终理智占了上风，他打消了那个念头。
+	EXPRESSION:with abandon
+		KEY:放纵
+		SCESECHI:不计后果的肆意妄为
+		SCESE:If you say that someone does something with abandon, you mean that they behave in a wild, uncontrolled way and do not think or care about how they should behave.
+		CASE:He has spent money with gay abandon...
+		CASECHI:他肆意挥霍钱财。
+	EXPRESSION:abandon oneself to an emotion
+		KEY:放纵
+		SCESECHI:放弃自己的理智而任凭情绪控制自己
+		SCESE:If you textbf{abandon yourself to an emotion}, you think about it a lot and feel it strongly, especially when other people might think you are wrong to do so.
+		CASE:We are scared to abandon ourselves to our feelings in case we seem weak or out of control.
+		CASECHI:我们不敢放纵自己的情感，以免显得太过软弱或缺乏自制。
