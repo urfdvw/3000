@@ -72,3 +72,15 @@ mean
     - ex: a **mean** dwelling
     - lizi: 糟糕的居住条件
     - note: 应该和前三个义项不是一个辞源
+
+appropriate
+- en: appropriate [adj]
+    - ch: 合时宜的
+    - learner: Something that is **appropriate** is suitable or acceptable for a particular situation.
+    - ex: Dress neatly and attractively in an outfit **appropriate** to the job.
+    - lizi: 穿上整洁靓丽且**合乎**工作需要的衣服。
+- en: to approriate
+    - ch: 挪作**之用
+    - collins: to set aside for a specific use or certain person
+    - ex: to **appropriate** funds for the schools
+    - lizi: 将基金**用作**学校的**专**款。
